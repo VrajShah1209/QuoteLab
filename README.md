@@ -1,5 +1,7 @@
 # QuoteLab
 
+[![tests](https://github.com/VrajShah1209/QuoteLab/actions/workflows/ci.yml/badge.svg)](https://github.com/VrajShah1209/QuoteLab/actions/workflows/ci.yml)
+
 **Market making under adverse selection: a Hawkes-driven limit order book simulator, optimal-quoting
 models, and an out-of-sample evaluation with proper statistics. Built from scratch in Python.**
 
